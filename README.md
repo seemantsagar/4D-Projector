@@ -2,18 +2,6 @@
 
 This project provides a Python implementation to create a 4D projection of a 3D object in a 3D plane. It utilizes the Matplotlib and Plotly libraries for visualization.
 
-## Project Structure
-
-The project is organized as follows:
-
-project_4d/
-├── README.md
-├── main.py
-├── utils.py
-├── visualization.py
-└── objects/
-├── init.py
-└── cube.py
 
 - `main.py`: Entry point of the application.
 - `utils.py`: Contains utility functions for 4D rotations.
